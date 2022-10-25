@@ -10,5 +10,5 @@ The console is the first phase of the AirBnB project from Alx, it covers ajority
     * Destroy an object
 ***
 ### Authors
-Arnold Mdluli <arnoldmldluli00@gmail.com>
-Loveth Okebe <>
+* Arnold Mdluli <arnoldmldluli00@gmail.com>
+* Loveth Okebe <>
