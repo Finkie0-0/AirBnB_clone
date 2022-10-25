@@ -8,3 +8,5 @@ The console is the first phase of the AirBnB project from Alx, it covers ajority
     * Do operations on objects (count, compute stats, etc…)
     * Update attributes of an object
     * Destroy an object
+**
+
