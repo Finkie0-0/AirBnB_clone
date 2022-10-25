@@ -12,5 +12,5 @@ The console is the first phase of the AirBnB project from Alx, it covers ajority
 ### Authors
 | Name| Username|
 |----|--------|
-| Arnold Mdluli| [Finkie0-0](www.https://github.com/Finkie0-0)|
-| Loveth Okebe | [Loveth10](www.https://github.com/Loveth10)|
+| Arnold Mdluli| <a>[Finkie0-0][(www.https://github.com/Finkie0-0)]</a>|
+| Loveth Okebe | <a>[Loveth10][(www.https://github.com/Loveth10)]</a>|
