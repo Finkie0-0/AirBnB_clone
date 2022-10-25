@@ -1,6 +1,6 @@
 # AirBnB Clone
 ## The Console
-The console is the first phase of the AirBnB project from Alx, it covers ajority of the concepts of programming. The goal is to deploy our web application: AirBnB clone.
+The console is the first phase of the AirBnB project from Alx, it covers majority of the concepts of programming. The goal is to deploy our web application: AirBnB clone.
 ***
 ### What's a command interpreter?
     * Create a new object (a new User or a new Place)
@@ -11,4 +11,4 @@ The console is the first phase of the AirBnB project from Alx, it covers ajority
 ***
 ### Authors
 * Arnold Mdluli <arnoldmldluli00@gmail.com>
-* Loveth Okebe <>
+* Loveth Okebe <lovethokebe@gmail.com>
