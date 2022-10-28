@@ -4,7 +4,7 @@ import cmd
 
 class HBNBCommand(cmd.Cmd):
     """Contains the functionality for the HBNB console"""
-    prompt: '(hbnb)'
+    prompt = '(hbnb)'
 
     def do_EOF(self, args):
         """Method to handle EOF to exit program"""
