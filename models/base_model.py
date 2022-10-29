@@ -3,11 +3,7 @@
 
 import uuid
 from datetime import datetime
-import models
 
-time = "%Y-%m-%dT%H:%M:%S.%f"
-
-class BaseModel:
     def __init__(self, *args, **kwargs):
         """Initialization of the base model"""
        if kwargs:
