@@ -3,11 +3,13 @@
 import cmd
 import models
 from models.base_models import BaseModel
+from models.user import User
+
+cls_arr = {"BaseModel": BaseModel, "User": User}
 
 class HBNBCommand(cmd.Cmd):
     """Contains the functionality for the HBNB console"""
     prompt = '(hbnb)'
-    cls_arr = {"BaseModel": BaseModel}
 
     def do_EOF(self, args):
         """Method to handle EOF to exit program"""
