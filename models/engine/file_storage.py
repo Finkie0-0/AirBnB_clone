@@ -2,6 +2,8 @@
 """Contains the FileStorage class"""
 
 import json
+from models.base_model import BaseModel
+from models.user import User
 
 class FileStorage:
     """serializes instances to a JSON file and deserializes JSON file to instances"""
@@ -34,6 +36,6 @@ class FileStorage:
                 json_objects = json.load(f)
             for key in json_objects:
                 self.__objects[key] = BaseModel(**json_objects[key])
-        except:
-            pass
+        except Exception as e:
+            print(e)
 
