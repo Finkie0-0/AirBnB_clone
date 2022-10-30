@@ -9,6 +9,3 @@ The console is the first phase of the AirBnB project from Alx, it covers majorit
     * Update attributes of an object
     * Destroy an object
 ***
-### Authors
-* Arnold Mdluli <arnoldmldluli00@gmail.com>
-* Loveth Okebe <lovethokebe@gmail.com>
