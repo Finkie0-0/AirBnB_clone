@@ -1,10 +1,17 @@
 #!/usr/bin/python3
-""" Reviews module """
+"""
+module review contains class review
+and inherits from class BaseModel
+"""
+
+
 from models.base_model import BaseModel
 
+
 class Review(BaseModel):
-    """ Review class """
+    """
+    review class for review instances
+    """
     place_id = ""
     user_id = ""
     text = ""
-
