@@ -1,9 +1,17 @@
 #!/usr/bin/python3
-""" The City module """
+"""
+module city contains class City
+and inherits from class BaseModel
+"""
+
+
 from models.base_model import BaseModel
 
+
 class City(BaseModel):
-    """ The city class """
+    """
+    City class for city instances
+    """
+
     state_id = ""
     name = ""
-
