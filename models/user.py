@@ -1,11 +1,19 @@
 #!/usr/bin/python3
-""" The User class """
+"""
+module user contains class user
+and inherits from class BaseModel
+"""
+
 
 from models.base_model import BaseModel
 
+
 class User(BaseModel):
-     """Representation of a user """
-     email = ""
-     password = ""
-     first_name = ""
-     last_name = ""
+    """
+    User class for user instances
+    """
+
+    email = ""
+    password = ""
+    first_name = ""
+    last_name = ""
